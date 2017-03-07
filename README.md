@@ -1,2 +1,2 @@
 # ELS
-Repository to formalize development of simple Z-axis lathe leadscrew.
+Repository to formalize development of stepper driven lathe Z-axis leadscrew.
